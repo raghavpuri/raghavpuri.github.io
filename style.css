@@ -32,3 +32,22 @@ a{
     margin-left:-4%;
     height:30%;
 }
+@media screen and (max-width: 992px) {
+    .main {
+      font-size:40px;
+      padding-right:5%;
+      margin:0;
+    }
+    h1{
+        font-size:40px;
+    }
+    body{
+        padding-bottom:10%;
+    }
+    .hand{
+        margin-left:-11%;
+        height:29%;
+        padding-top:6%;
+        padding-bottom:2.5%;
+    }
+}
