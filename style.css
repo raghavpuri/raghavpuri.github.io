@@ -5,7 +5,7 @@ body, input {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;
-    font-size:12px;
+    font-size:13px;
   }
 
 h1 {
@@ -17,6 +17,7 @@ h1 {
 
 .main{
    padding-left:5%;
+   max-width:80vw;
    margin-right:9%;
    padding-top:2%;
    line-height: 1.65;
