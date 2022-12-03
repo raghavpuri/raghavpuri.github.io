@@ -1,5 +1,6 @@
 body, input {
-    color: #333;
+    background-color: #333;
+    color:#fff;
     font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
