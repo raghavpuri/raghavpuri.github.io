@@ -30,7 +30,7 @@ a{
     color:#2832c2;
 }
 .ninja{
-    height:30%;
+    height:10vh;
 }
 @media screen and (max-width: 992px) {
     .main {
